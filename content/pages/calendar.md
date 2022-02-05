@@ -4,35 +4,357 @@ title: Calendar
 uid: bbb46842-8cfc-91fd-62a1-b42347077e6c
 ---
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Course Overview | &nbsp; |
-| {{< td-colspan 3 >}}**History**{{< /td-colspan >}} |||
-| 2 | History: Colonialism and Imperialism | &nbsp; |
-| 3 | History: Ideas and Ideologies of Progress and Modernization | &nbsp; |
-| {{< td-colspan 3 >}}**Concepts**{{< /td-colspan >}} |||
-| 4 | Concepts: Pro Versus Anti-Development | &nbsp; |
-| 5 | Concepts: The Question of Ethics | Reaction paper #1 due |
-| {{< td-colspan 3 >}}**Theories**{{< /td-colspan >}} |||
-| 6 | Economic Development Theories: Neoclassical and Dependency | &nbsp; |
-| 7 | Economic Development Theories: State Intervention and the East Asian Miracle | &nbsp; |
-| 8 | Economic Development Theories: New Institutionalism and Law | &nbsp; |
-| 9 | Alternative Development Theories: Human Rights and Development | &nbsp; |
-| 10 | Development Theories Today in the Context of Global Crisis | &nbsp; |
-| {{< td-colspan 3 >}}**Actors**{{< /td-colspan >}} |||
-| 11 | Actors: State | &nbsp; |
-| 12 | Actors: Markets and Marketization |  {{< br >}}{{< br >}} Reaction paper #2 due {{< br >}}{{< br >}} Group project presentation due {{< br >}}{{< br >}}  |
-| 13 | Actors: Civil Society: NGOs and Social Movements | &nbsp; |
-| 14 | Actors: Informal Economy and Illegality | &nbsp; |
-| 15 | Actors: Global Actors and Institutions | &nbsp; |
-| 16 | Multi-level Planning and Scale | &nbsp; |
-| {{< td-colspan 3 >}}**Key Issues**{{< /td-colspan >}} |||
-| 17 | Key Issues: Governance of Complexity in a Globalized World | &nbsp; |
-| 18 | Key Issues: Urban-Rural Linkages and Tradeoffs | &nbsp; |
-| 19 | Key Issues: Migration and Development | &nbsp; |
-| 20 | Key Issues: Participatory Development | &nbsp; |
-| 21 | Key Issues: Corruption and Reform of Public Institutions | &nbsp; |
-| 22 | Key Issues: Trade, Outsourcing, and Labor Standards | &nbsp; |
-| 23 | Key Issues: Aid and Development | &nbsp; |
-| 24 | Key Issues: Global Poverty | &nbsp; |
-| 25 | Key Issues: Security and Post-Conflict Development and Review | Final paper due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Course Overview
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**History**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+History: Colonialism and Imperialism
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+History: Ideas and Ideologies of Progress and Modernization
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Concepts**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Concepts: Pro Versus Anti-Development
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Concepts: The Question of Ethics
+{{< tdclose >}}
+{{< tdopen >}}
+Reaction paper #1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Theories**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Economic Development Theories: Neoclassical and Dependency
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Economic Development Theories: State Intervention and the East Asian Miracle
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Economic Development Theories: New Institutionalism and Law
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Alternative Development Theories: Human Rights and Development
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Development Theories Today in the Context of Global Crisis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Actors**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Actors: State
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Actors: Markets and Marketization
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reaction paper #2 due
+
+Group project presentation due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Actors: Civil Society: NGOs and Social Movements
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Actors: Informal Economy and Illegality
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Actors: Global Actors and Institutions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Multi-level Planning and Scale
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Key Issues**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Key Issues: Governance of Complexity in a Globalized World
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Key Issues: Urban-Rural Linkages and Tradeoffs
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Key Issues: Migration and Development
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Key Issues: Participatory Development
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Key Issues: Corruption and Reform of Public Institutions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Key Issues: Trade, Outsourcing, and Labor Standards
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Key Issues: Aid and Development
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Key Issues: Global Poverty
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Key Issues: Security and Post-Conflict Development and Review
+{{< tdclose >}}
+{{< tdopen >}}
+Final paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
