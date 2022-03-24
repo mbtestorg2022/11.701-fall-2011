@@ -332,13 +332,13 @@ Trubek, David M., and Alvaro Santos. Chapter 1 in _The New Law and Economic Deve
 
 The World Bank. "[Legal and Judicial Reform: Observations, Experiences, and Approach of the Legal Vice Presidency / Legal Vice Presidency, the World Bank](http://documents.worldbank.org/curated/en/639721468028843406/pdf/multi0page.pdf)." 2002.
 
-Glaeser, Edward, and Andrei Shleifer. "Legal Origins." _The Quarterly Journal of Economics_ 117, no. 4 (2002): 1193–229. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://academic.oup.com/qje/article/117/4/1193/1875936))
+Glaeser, Edward, and Andrei Shleifer. "Legal Origins." _The Quarterly Journal of Economics_ 117, no. 4 (2002): 1193–229. ([PDF](https://academic.oup.com/qje/article/117/4/1193/1875936))
 
 Dixit, Avinash K. _Lawlessness and Economics: Alternative Modes of Governance_. Princeton University Press, 2004, pp. 1–24. ISBN: 9780691114866. \[Preview with [Google Books](http://books.google.com/books?id=sA7pXTF_Fy0C&pg=PA1#v=onepage)\]
 
 Djankov, S., R. La Porta, et al. "[Courts: The Lex Mundi Project](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=452161)." _The Quarterly Journal of Economics_ 118, no. 2 (2003): 453–517.
 
-Evans, P. "Extending the Institutional Turn: Property, Politics and Development Trajectories." In _Institutional Change and Economic Development_. Edited by Ha–Joon Chang. Anthem Press, 2007. ISBN: 9781843312819. \[Preview with [Google Books](http://books.google.com/books?id=CzFP6lnqAtYC&pg=PA35#v=onepage )\] \[Also available as WIDER Research Paper No. 2006/113.\] (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.wider.unu.edu/publications/working-papers/research-papers/2006/en_GB/rp2006-113/_files/78091813717280945/default/rp2006-113.pdf))
+Evans, P. "Extending the Institutional Turn: Property, Politics and Development Trajectories." In _Institutional Change and Economic Development_. Edited by Ha–Joon Chang. Anthem Press, 2007. ISBN: 9781843312819. \[Preview with [Google Books](http://books.google.com/books?id=CzFP6lnqAtYC&pg=PA35#v=onepage )\] \[Also available as WIDER Research Paper No. 2006/113.\] ([PDF](http://www.wider.unu.edu/publications/working-papers/research-papers/2006/en_GB/rp2006-113/_files/78091813717280945/default/rp2006-113.pdf))
 
 ———. "[Development As Institutional Change: The Pitfalls of Monocropping and the Potentials of Deliberation](https://link.springer.com/article/10.1007/BF02686327)." _Studies in Comparative International Development (SCID)_ 38, no. 4 (2004): 30–52.
 
@@ -378,11 +378,11 @@ Sengupta, A. "[Realising the Right to Development](http://onlinelibrary.wiley.co
 
 Pogge, Thomas. Chapter 2 in _World Poverty and Human Rights: Cosmopolitan Responsibilities and Reforms_. Polity, 2002. ISBN: 9780745629957.
 
-United Nations, General Assembly. "Declaration on the Right to Development." _Human Rights: A Compilation of International Instruments. Volume 1, 1st Part, Universal Instruments_. (41st sess: 1986–1987) (2002): 454–8. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.ohchr.org/Documents/Publications/Compilation2en.pdf))
+United Nations, General Assembly. "Declaration on the Right to Development." _Human Rights: A Compilation of International Instruments. Volume 1, 1st Part, Universal Instruments_. (41st sess: 1986–1987) (2002): 454–8. ([PDF](http://www.ohchr.org/Documents/Publications/Compilation2en.pdf))
 
 Orford, Anne. "Globalization and the Right to Development." In _People's Rights_. Edited by Philip Alston. Oxford University Press, 2001. ISBN: 9780198298755.
 
-Marks, S. "The Human Right to Development: Between Rhetoric and Reality." _Harvard Human Rights Journal_ 17 (2004): 137–68. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.law.harvard.edu/students/orgs/hrj/iss17/marks.pdf))
+Marks, S. "The Human Right to Development: Between Rhetoric and Reality." _Harvard Human Rights Journal_ 17 (2004): 137–68. ([PDF](http://www.law.harvard.edu/students/orgs/hrj/iss17/marks.pdf))
 
 Uvin, Peter. Chapters 1 and 6 in _Human Rights and Development_. Kumarian Press, 2004. ISBN: 9781565491861.
 
@@ -414,7 +414,7 @@ Sabel, Charles, and Sanjay Reddy. "[Learning to Learn: Undoing the Gordian Knot 
 
 Shaw, Timothy. "China, India and (South) Africa: What International Relations in the Second Decade of the Twenty First Century?" In _The Rise of China and India in Africa: Challenges, Opportunities and Critical Interventions._ Edited by Fantu Cheru and Syril Obi. Zed Books, 2010. ISBN: 9781848134362.
 
-Stiglitz, J. E. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Current Economic Crisis and Lessons for Economic Theory." (PDF)](https://pdfs.semanticscholar.org/fccb/ed697640b54a8d03f249be7356cac6ca9c37.pdf) _Eastern Economic Journal_ 35, no. 3 (2009): 281–96.
+Stiglitz, J. E. ["The Current Economic Crisis and Lessons for Economic Theory." (PDF)](https://pdfs.semanticscholar.org/fccb/ed697640b54a8d03f249be7356cac6ca9c37.pdf) _Eastern Economic Journal_ 35, no. 3 (2009): 281–96.
 
 ———. "[Regulation and the Theory of Market and Government Failure](https://prezi.com/vexguxurmg0_/regulation-and-the-theory-of-market-and-government-failure/)." In _New Perspectives on Regulation_. Edited by David Moss and John Cisternino. The Tobin Project, 2009. ISBN: 9780982478806. \[Preview with [Google Books](http://books.google.com/books?id=wEQ6QGS6sPkC&printsec=frontcover)\]
 
@@ -494,7 +494,7 @@ Hirschman, A. O. "Does The Market Keep Us Out of Mischief Or Out of Happiness." 
 
 Starr, Paul. "[The Meaning of Privatization](http://www.princeton.edu/~starr/articles/articles80-89/Starr-MeaningPrivatization-88.htm)." _Yale Law and Policy Review_ 6 (1988): 6–41.
 
-Birdsall, Nancy, and John Nellis. "Winners and Losers: Assessing the Distributional Impact of Privatization." _World Development_ 31, no. 10 (2003): 1617–33. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.sciencedirect.com/science/article/pii/S0305750X03001414))
+Birdsall, Nancy, and John Nellis. "Winners and Losers: Assessing the Distributional Impact of Privatization." _World Development_ 31, no. 10 (2003): 1617–33. ([PDF](https://www.sciencedirect.com/science/article/pii/S0305750X03001414))
 
 Kim, Annette. Chapter 1 in _Learning to be Capitalists: Entrepreneurs in Vietnam's Transition Economy_. Oxford University Press, 2008. ISBN: 9780195369397.
 
@@ -508,7 +508,7 @@ Evans, P. "[Introduction: Development Strategies Across the Public–Private Div
 
 Bennell, P. "[Privatization in Sub–Saharan Africa: Progress and Prospects During the 1990s](http://econpapers.repec.org/article/eeewdevel/v_3a25_3ay_3a1997_3ai_3a11_3ap_3a1785-1803.htm)." _World Development_ 25, no. 11 (1997): 1785–803.
 
-Gathii, James T. "Foreign and Other Economic Rights Upon Conquest and Under Occupation: Iraq in Comparative and Historical Perspective." _University of Pennsylvania Journal of International Economic Law_ 25, no. 2 (2004): 525–53. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.9MB](http://www.law.upenn.edu/journals/jil/articles/volume25/issue2/Gathii25U.Pa.J.Int%27lEcon.L.491%282004%29.pdf))
+Gathii, James T. "Foreign and Other Economic Rights Upon Conquest and Under Occupation: Iraq in Comparative and Historical Perspective." _University of Pennsylvania Journal of International Economic Law_ 25, no. 2 (2004): 525–53. ([PDF - 3.9MB](http://www.law.upenn.edu/journals/jil/articles/volume25/issue2/Gathii25U.Pa.J.Int%27lEcon.L.491%282004%29.pdf))
 
 
 {{< tdclose >}}
@@ -538,7 +538,7 @@ Fisher, William F. "[Doing Good? The Politics and Antipolitics of NGO Practices]
 
 Rajagopal, Balakrishnan. Chapter 8 in _International Law from Below: Development, Social Movements, and Third World Resistance_. Cambridge University Press, 2003. ISBN: 9780521016711. \[Preview with [Google Books](http://books.google.com/books?id=k0Xv2IFGCAoC&printsec=frontcover)\]
 
-Sanyal, B., and Vinit Mukhija. "Institutional Pluralism and Housing Delivery: A Case of Unforeseen Conflicts in Mumbai, India." _World Development_ 29, no. 12 (2001): 2043–57. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/sanyal/www/articles/InstPluralism.pdf))
+Sanyal, B., and Vinit Mukhija. "Institutional Pluralism and Housing Delivery: A Case of Unforeseen Conflicts in Mumbai, India." _World Development_ 29, no. 12 (2001): 2043–57. ([PDF](http://web.mit.edu/sanyal/www/articles/InstPluralism.pdf))
 
 ### Recommended
 
@@ -548,7 +548,7 @@ Walzer, Michael. "The Civil Society Argument." In _Dimensions of Radical Democra
 
 Lemos, M. Carmen de Mello. "The Politics of Pollution Control in Brazil: State Actors and Social Movements Cleaning up Cubalas." _World Development_ 26, no. 1 (1998): 75–87.
 
-Wade, R. "The Management of Common Property Resources: Collective Action as an Alternative to Privatization or State Regulation." _Cambridge Journal of Economics_ 11 (1987): 95–106. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://econ2.econ.iastate.edu/classes/tsc220/hallam/CommonPropertyResourcesWade.pdf))
+Wade, R. "The Management of Common Property Resources: Collective Action as an Alternative to Privatization or State Regulation." _Cambridge Journal of Economics_ 11 (1987): 95–106. ([PDF](http://econ2.econ.iastate.edu/classes/tsc220/hallam/CommonPropertyResourcesWade.pdf))
 
 Ostrom, Elinor. _Governing the Commons: The Evolution of Institutions for Collective Action_. Cambridge University Press, 1990, pp. 88–104 and 207–16. ISBN: 9780521405997.
 
@@ -618,7 +618,7 @@ Read the [Study Questions]({{< baseurl >}}/pages/lecture-summaries#GlobalActors)
 
 Rajagopal, Balakrishnan. "From Resistance to Renewal: Bretton Woods Institutions and the Emergence of the 'New' Development Agenda." In _International Law from Below: Development, Social Movements, and Third World Resistance_. Cambridge University Press, 2003. ISBN: 9780521816465. \[Preview with [Google Books](http://books.google.com/books?id=k0Xv2IFGCAoC&printsec=frontcover)\]
 
-The UN–Habitat Strategic Vision (May 2003). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.urbancentre.utoronto.ca/pdfs/elibrary/UN-HabitatStrategicVision.pdf))
+The UN–Habitat Strategic Vision (May 2003). ([PDF](http://www.urbancentre.utoronto.ca/pdfs/elibrary/UN-HabitatStrategicVision.pdf))
 
 Wise, Timothy A., Hilda Salazar, et al. "Investment, Sovereignty and the Environment: The Metalclad and NAFTA's." Chapter 11 in _Confronting Globalization: Economic Integration and Popular Resistance in Mexico_. Kumarian Press, 2003. ISBN: 9781565491632.
 
@@ -656,7 +656,7 @@ Read the [Study Questions]({{< baseurl >}}/pages/lecture-summaries#MultilevelPla
 
 ### Required
 
-Rajagopal, Balakrishnan. "Limits of Law in Counter–Hegemonic Globalization: The Indian Supreme Court and the Narmada Valley Struggle." Center for the Study of Law and Governance Working Paper 04–04. Jawaharlal Nehru University, May 2004. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.jnu.ac.in/sites/default/files/u63/04-Limits%20Law%28Rajagopal%29.pdf))
+Rajagopal, Balakrishnan. "Limits of Law in Counter–Hegemonic Globalization: The Indian Supreme Court and the Narmada Valley Struggle." Center for the Study of Law and Governance Working Paper 04–04. Jawaharlal Nehru University, May 2004. ([PDF](https://www.jnu.ac.in/sites/default/files/u63/04-Limits%20Law%28Rajagopal%29.pdf))
 
 Blank, Yishai. "[The City and the World](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1020141)." _Columbia Journal of Transnational Law_ 44, no. 3 (2006).
 
@@ -702,7 +702,7 @@ Jessop, Bob. "[The Rise of Governance and The Risks of Failure: The Case of Econ
 
 Stiglitz, Joseph E. "The Promise of Development." In _Making Globalization Work_. W. W. Norton and Company, 2006, pp. 25–60. ISBN: 9780393061222.
 
-Kaufmann, D., et al. "Governance Matters: From Measurement to Action." _Finance and Development_ 37, no. 2 (2000): 10–3. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.imf.org/external/pubs/ft/fandd/2000/06/pdf/kauf.pdf))
+Kaufmann, D., et al. "Governance Matters: From Measurement to Action." _Finance and Development_ 37, no. 2 (2000): 10–3. ([PDF](http://www.imf.org/external/pubs/ft/fandd/2000/06/pdf/kauf.pdf))
 
 ### Recommended
 
@@ -714,7 +714,7 @@ International Monetary Fund. _Good Governance: The IMF's Role_. International Mo
 
 World Bank. _Governance: The World Bank's Experience_. World Bank, 1994, pp. xiii–xix; and 37–54. ISBN: 9780821328040. \[Preview with [Google Books](http://books.google.com/books?id=lylQWqEdtrkC&printsec=frontcover)\]
 
-UNDP. Reconceptualizing Governance (Discussion paper, 1997), pp. 1–20. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](ftp://pogar.org/LocalUser/pogarp/other/undp/governance/reconceptualizing.pdf))
+UNDP. Reconceptualizing Governance (Discussion paper, 1997), pp. 1–20. ([PDF](ftp://pogar.org/LocalUser/pogarp/other/undp/governance/reconceptualizing.pdf))
 
 Evans, Peter B. "Looking for Agents of Urban Livability in a Globalized Political Economy." In _Livable Cities?: Urban Struggles for Livelihood and Sustainability_. University of California Press, 2002, pp. 1–30. ISBN: 9780520230248. \[Preview with [Google Books](http://books.google.com/books?id=X6xJRc8r4sUC&pg=PA1#v=onepage)\]
 
@@ -746,7 +746,7 @@ Read the [Study Questions]({{< baseurl >}}/pages/lecture-summaries#UrbanRural)
 
 "Dynamic Cities as Engines of Economic Growth." In _Entering the 21st Century World Development Report, 1999/2000_. Published for the World Bank, Oxford University Press, 2000, pp. 126–38. ISBN: 9780585227368.
 
-Jones, G. A., and Corbridge S. "The Continuing Debate About Urban Bias: The Thesis, Its Critics, Its Influence and Its Implications for Poverty–Reduction Strategies." _Progress in Development Studies_ 10, no. 1 (2010): 1–18. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.indiaenvironmentportal.org.in/files/The%20continuing%20debate%20about%20urban%20bias.pdf))
+Jones, G. A., and Corbridge S. "The Continuing Debate About Urban Bias: The Thesis, Its Critics, Its Influence and Its Implications for Poverty–Reduction Strategies." _Progress in Development Studies_ 10, no. 1 (2010): 1–18. ([PDF](http://www.indiaenvironmentportal.org.in/files/The%20continuing%20debate%20about%20urban%20bias.pdf))
 
 Tacoli, C. "[Rural–Urban Interactions; A Guide to the Literature](http://eau.sagepub.com/content/10/1/147.short?rss=1&ssource=mfc)." _Environment and Urbanization_ 10, no. 1 (1998): 147–66.
 
@@ -780,25 +780,25 @@ Read the [Study Questions]({{< baseurl >}}/pages/lecture-summaries#Migration)
 
 ### Required
 
-Haas, Hein de. _Remittances, Migration and Social Development: A Conceptual Review of the Literature_. United Nations Research Institute for Social Development, 2007. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.unrisd.org/80256B3C005BCCF9/%28httpAuxPages%29/8B7D005E37FFC77EC12573A600439846/$file/deHaaspaper.pdf))
+Haas, Hein de. _Remittances, Migration and Social Development: A Conceptual Review of the Literature_. United Nations Research Institute for Social Development, 2007. ([PDF](http://www.unrisd.org/80256B3C005BCCF9/%28httpAuxPages%29/8B7D005E37FFC77EC12573A600439846/$file/deHaaspaper.pdf))
 
-Faist, Thomas. "Migrants As Transnational Development Agents: An Inquiry into the Newest Round of the Migration–Development Nexus." _Population, Space and Place_ 14, no. 1 (2008): 21–42. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://onlinelibrary.wiley.com/doi/10.1002/psp.471/pdf))
+Faist, Thomas. "Migrants As Transnational Development Agents: An Inquiry into the Newest Round of the Migration–Development Nexus." _Population, Space and Place_ 14, no. 1 (2008): 21–42. ([PDF](http://onlinelibrary.wiley.com/doi/10.1002/psp.471/pdf))
 
 Levitt, Peggy. "[Transnationalizing Community Development: The Case of Migration Between Boston and the Dominican Republic](http://nvs.sagepub.com/content/26/4/509.abstract)." _Nonprofit and Voluntary Sector Quarterly_ 26, no. 4 (1997): 509–26.
 
-Iskander, N. "Innovating State Practice: Migration, Development, and State Learning in the Moroccan Souss." _MIT IPC Working Paper: IPC–05–009,_ 2005. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF – 2.0MB](http://web.mit.edu/ipc/publications/pdf/05-009.pdf))
+Iskander, N. "Innovating State Practice: Migration, Development, and State Learning in the Moroccan Souss." _MIT IPC Working Paper: IPC–05–009,_ 2005. ([PDF – 2.0MB](http://web.mit.edu/ipc/publications/pdf/05-009.pdf))
 
 ### Recommended
 
 Orozco, Manuel, B. Lindsay Lowell, et al. _T[ransnational Engagement, Remittances and their Relationship to Development in Latin America and the Caribbean](http://www.foreignaffairs.com/articles/61629/richard-feinberg/transnational-engagement-remittances-and-their-relationship-to-d)_. Institute for the Study of International Migration, Georgetown University, 2005.
 
-Kapur, Devesh. "United Nations Conference on Trade and Development, and Group of Twenty–Four." _Remittances: The New Development Mantra?_ _G–24 Discussion Paper Series_, no. 29. United Nations, 2004. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.unctad.org/en/docs/gdsmdpbg2420045_en.pdf))
+Kapur, Devesh. "United Nations Conference on Trade and Development, and Group of Twenty–Four." _Remittances: The New Development Mantra?_ _G–24 Discussion Paper Series_, no. 29. United Nations, 2004. ([PDF](http://www.unctad.org/en/docs/gdsmdpbg2420045_en.pdf))
 
 Levitt, Peggy, and B. Nadya Jaworsky. "[Transnational Migration Studies: Past Developments and Future Trends](http://www.annualreviews.org/doi/abs/10.1146/annurev.soc.33.040406.131816)." _Annual Review of Sociology_ 33 (2007): 129–56.
 
 Fox, Jonathan, and Xochtil Bada. "[Migrant Organization and Hometown Impacts in Rural Mexico](http://escholarship.org/uc/item/7jc3t42v)." _Journal of Agrarian Change_ 8, no. 2–3 (2008): 435–61.
 
-Goldring, Luin. "Migrant Political Participation and Development: Re–Politicizing Development and Re–Socializing Politics." Paper Presented at SSRC Migration and Development Conference. 2008, Social Science Research Council, February, 28–March, 1. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://essays.ssrc.org/developmentpapers/wp-content/uploads/2009/08/15Goldring.pdf))
+Goldring, Luin. "Migrant Political Participation and Development: Re–Politicizing Development and Re–Socializing Politics." Paper Presented at SSRC Migration and Development Conference. 2008, Social Science Research Council, February, 28–March, 1. ([PDF](http://essays.ssrc.org/developmentpapers/wp-content/uploads/2009/08/15Goldring.pdf))
 
 
 {{< tdclose >}}
@@ -830,19 +830,19 @@ Mohan, G., and K. Stokke. "[Participatory Development and Empowerment: The Dange
 
 Krishna, A. "[Partnerships Between Local Governments and Community–Based Organizations: Exploring the Scope for Synergy](http://onlinelibrary.wiley.com/doi/10.1002/pad.280/abstract)." _Public Administration and Development_ 23, no. 4 (2003): 361–71.
 
-International Council on Human Rights. _Local Self–Rule: Decentralization and Human Rights,_ 2000, pp. 1–35. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://reliefweb.int/sites/reliefweb.int/files/resources/15C8B99E9E0E885CC125750B00503166-ICHRP_Jan2002.pdf))
+International Council on Human Rights. _Local Self–Rule: Decentralization and Human Rights,_ 2000, pp. 1–35. ([PDF](http://reliefweb.int/sites/reliefweb.int/files/resources/15C8B99E9E0E885CC125750B00503166-ICHRP_Jan2002.pdf))
 
 ### Recommended
 
 Midgley, James. "Community Participation: History, Concepts and Controversies." In _Community Participation, Social Development, and the State_. Methuen, 1986, pp. 13–44. ISBN: 9780416398205.
 
-Chambers, R. "The Origins and Practice of Participatory Rural Appraisal". _World Development_ 22, no. 7 (1994): 953–69. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF – 1.7MB](https://entwicklungspolitik.uni-hohenheim.de/uploads/media/Day_4_-_Reading_text_8_02.pdf))
+Chambers, R. "The Origins and Practice of Participatory Rural Appraisal". _World Development_ 22, no. 7 (1994): 953–69. ([PDF – 1.7MB](https://entwicklungspolitik.uni-hohenheim.de/uploads/media/Day_4_-_Reading_text_8_02.pdf))
 
 Webster, N. "Democracy, Development and the Institutionalized Participation of the Poor for Poverty Reduction." In _Applying Public Administration in Development: Guideposts to the Future_. Edited by Paul D. Collins. John Wiley and Sons, 2000, pp. 315–28. ISBN: 9780471877363.
 
-Charlick, Robert. "Popular Participation and Local Government Reform." _Public Administration and Development_ 21 (2001): 149–57. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://onlinelibrary.wiley.com/doi/abs/10.1002/pad.155))
+Charlick, Robert. "Popular Participation and Local Government Reform." _Public Administration and Development_ 21 (2001): 149–57. ([PDF](https://onlinelibrary.wiley.com/doi/abs/10.1002/pad.155))
 
-Lavalle, Adrian G., Arnab Acharya, et al. "Beyond Comparative Anecdotalism: Lessons on Civil and Political Organizations Shape Participation in São Paulo, Brazil." _World Development_ 33, no. 6 (2005): 951–61. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.dfid.gov.uk/r4d/PDF/Outputs/CentreOnCitizenship/Comparative_Anecdotalism_WD.pdf))
+Lavalle, Adrian G., Arnab Acharya, et al. "Beyond Comparative Anecdotalism: Lessons on Civil and Political Organizations Shape Participation in São Paulo, Brazil." _World Development_ 33, no. 6 (2005): 951–61. ([PDF](http://www.dfid.gov.uk/r4d/PDF/Outputs/CentreOnCitizenship/Comparative_Anecdotalism_WD.pdf))
 
 Grindle, Merilee. Chapters 1, 6, 7, and 8 in _Going Local: Decentralization, Democracy, and the Promise of Good Governance_. Princeton University Press, 2007. ISBN: 9780691140988. \[Preview with [Google Books](http://books.google.com/books?id=f8TnWImp4LoC&pg=PA1#v=onepage)\]
 
@@ -886,7 +886,7 @@ Vial, Virginie, and Julien Hanoteau. "[Corruption, Manufacturing Plant Growth, a
 
 Klitgaard, Robert. _Controlling Corruption_. University of Chicago Press, 1988, pp. 1–50. ISBN: 9780520059856.
 
-Paul, S. "Accountability in Public Service: Exit, Voice, and Control." _World Development_ 20, no. 7 (1992): 1047–60. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.sciencedirect.com/science/article/pii/0305750X9290130N))
+Paul, S. "Accountability in Public Service: Exit, Voice, and Control." _World Development_ 20, no. 7 (1992): 1047–60. ([PDF](https://www.sciencedirect.com/science/article/pii/0305750X9290130N))
 
 Wade, R. "Politics and Graft: Recruitment, Appointment, and Promotions to Public Office in Italy." In _Corruption, Development and Inequality: Soft Touch and Hard Graft_. Edited by Peter M. Ward. Routledge, 1989, pp. 73–109. ISBN: 9780415019989.
 
@@ -894,9 +894,9 @@ Banfield, E. C. "Corruption as a Failure of Governmental Organization." In _Ethi
 
 Ehrenhalt, A. "[The Paradox of Corrupt yet Effective Leadership](http://www.nytimes.com/2002/09/30/opinion/the-paradox-of-corrupt-yet-effective-leadership.html?pagewanted=all&src=pm)," _The New York Times_, September 30, 2002, p. A25.
 
-Rock, Michael, and Heidi Bonnett. "The Comparative Politics of Corruption: Accounting for the East Asian Paradox in Empirical Studies of Corruption, Growth and Investment." _World Development_ 32, no. 6 (2004): 999–1017. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.sciencedirect.com/science/article/pii/S0305750X04000440))
+Rock, Michael, and Heidi Bonnett. "The Comparative Politics of Corruption: Accounting for the East Asian Paradox in Empirical Studies of Corruption, Growth and Investment." _World Development_ 32, no. 6 (2004): 999–1017. ([PDF](https://www.sciencedirect.com/science/article/pii/S0305750X04000440))
 
-Davis, J. "Corruption in Public Service Delivery: Experience from South Asia's Water and Sanitation Sector." _World Development_ 32, no. 1 (2004): 53–71 (19). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.bvsde.paho.org/bvsacd/cd61/davis.pdf))
+Davis, J. "Corruption in Public Service Delivery: Experience from South Asia's Water and Sanitation Sector." _World Development_ 32, no. 1 (2004): 53–71 (19). ([PDF](http://www.bvsde.paho.org/bvsacd/cd61/davis.pdf))
 
 Rose–Ackerman, Susan. _Corruption and Government: Causes, Consequences, and Reform_. Cambridge University Press, 1999, pp. 39–68, and 225–8. ISBN: 9780521659123. \[Preview with [Google Books](http://books.google.com/books?id=XBA1cZlB5AoC&printsec=frontcover)\]
 
@@ -964,7 +964,7 @@ Kucera, David. "[Core Labour Standards and Foreign Direct Investment](http://doi
 
 Palley, Thomas I. "[The Economic Case for International Labour Standards](http://cje.oxfordjournals.org/content/28/1/21.abstract)." _Cambridge Journal of Economics_ 28, no. 1 (2004): 21–36.
 
-Locke, Richard M., Fei Qin, et al. "Does Monitoring Improve Labor Standards? Lessons from Nike." _Industrial and Labor Relations Review_ 61, no. 1 (2007): 1–29. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.people.fas.harvard.edu/~hiscox/LockeQinBrause.pdf))
+Locke, Richard M., Fei Qin, et al. "Does Monitoring Improve Labor Standards? Lessons from Nike." _Industrial and Labor Relations Review_ 61, no. 1 (2007): 1–29. ([PDF](http://www.people.fas.harvard.edu/~hiscox/LockeQinBrause.pdf))
 
 
 {{< tdclose >}}
@@ -996,7 +996,7 @@ Sachs, Jeffrey. Chapters 13 and 15 in _The End of Poverty: Economic Possibilitie
 
 ### Recommended
 
-Minoiu, Camelia, and Sanjay Reddy. _Development Aid and Economic Growth A Positive Long–Run Relation_. IMF Working Paper No. 09/118, June, 2009. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.imf.org/external/pubs/ft/wp/2009/wp09118.pdf))
+Minoiu, Camelia, and Sanjay Reddy. _Development Aid and Economic Growth A Positive Long–Run Relation_. IMF Working Paper No. 09/118, June, 2009. ([PDF](http://www.imf.org/external/pubs/ft/wp/2009/wp09118.pdf))
 
 Banerjee, Abhijit. "[Making Aid Work](http://bostonreview.net/banerjee-making-aid-work)," (and the responses). _Boston Review_, July/August 2006.
 
@@ -1026,7 +1026,7 @@ Roy, Ananya. Chapter 1 in _Poverty Capital: Microfinance and the Making of Devel
 
 Reddy, Sanjay G., and Camelia Minoiu. "[Has World Poverty Really Fallen?](https://doi.org/10.1111/j.1475-4991.2007.00240.x)" _Review of Income and Wealth_ 53, no. 3 (2007): 484–502.
 
-Reddy, Sanjay, and Antoine Heuty. "Global Development Goals: The Folly of Technocratic Pretensions." _Development Policy Review_ 26, no. 1 (2008): 5–28. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://sanjayreddy.squarespace.com/storage/papers/journal-articles/4DPRReddyHeuty.pdf))
+Reddy, Sanjay, and Antoine Heuty. "Global Development Goals: The Folly of Technocratic Pretensions." _Development Policy Review_ 26, no. 1 (2008): 5–28. ([PDF](http://sanjayreddy.squarespace.com/storage/papers/journal-articles/4DPRReddyHeuty.pdf))
 
 Mahadevia, Darshini. "[Perspectives **–** NURM and the Poor in Globalising Mega Cities](http://www.jstor.org/pss/4418529)." _Economic and Political Weekly_ 41, no. 31 (2006): 3399–401.
 
@@ -1060,7 +1060,7 @@ Rajagopal, Balakrishnan. "[Invoking the Rule of Law in Post–Conflict Rebuildin
 
 Andersen, R. "[How Multilateral Development Assistance Triggered The Conflict in Rwanda](http://www.jstor.org/pss/3993333)." _Third World Quarterly_ 21, no. 3 (2000): 441–56.
 
-Bello, Walden. "The Rise of the Relief and Reconstruction Complex." _Journal of International Affairs_ 59, no. 2 (2006): 281–96. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://people.ucsc.edu/~rlipsch/migrated/pol160A/Bello.pdf))
+Bello, Walden. "The Rise of the Relief and Reconstruction Complex." _Journal of International Affairs_ 59, no. 2 (2006): 281–96. ([PDF](https://people.ucsc.edu/~rlipsch/migrated/pol160A/Bello.pdf))
 
 Aning, Kwesi. "China and Africa: Towards a New Security Relationship." In _The Rise of China and India in Africa: Challenges, Opportunities and Critical Interventions._ Edited by Fantu Cheru and Syril Obi. Zed Books, 2010. ISBN: 9781848134362.
 
